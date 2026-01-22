@@ -1,1 +1,2 @@
-# Sales-Insights-Dashboard-Data-Analysis-Project-By-Ankit-Patel-NIT-Calicut
+# Sales-Insights-Power-BI-Dashboard-Data-Analysis-Project
+Sales-Insights-Power-BI-Dashboard-Data-Analysis-Project
